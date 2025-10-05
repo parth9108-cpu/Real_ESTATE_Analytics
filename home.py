@@ -194,6 +194,14 @@ st.markdown("""
         margin-bottom: 0.5rem;
     }
     
+    /* Image containers */
+    .image-container {
+        border-radius: 15px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        margin: 2rem 0;
+    }
+    
     /* Animations */
     @keyframes slideInDown {
         from {
@@ -256,9 +264,11 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Display Hero Image
+# Display Hero Image with updated parameter
 try:
-    st.image("datasets/front image.png", use_column_width=True)
+    st.markdown('<div class="image-container">', unsafe_allow_html=True)
+    st.image("datasets/front image.png", use_container_width=True)
+    st.markdown('</div>', unsafe_allow_html=True)
 except:
     # Fallback if image doesn't exist
     st.info("🖼️ Add your hero image at 'datasets/front image.png' for the complete experience!")
@@ -419,9 +429,13 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Banner Image
+# Banner Image with updated parameter
 try:
-    st.image("datasets/banner image.jpg", use_column_width=True, caption="🌟 Start Your Smart Real Estate Journey Today!")
+    st.markdown('<div class="image-container">', unsafe_allow_html=True)
+    st.image("datasets/banner image.jpg", 
+             use_container_width=True, 
+             caption="🌟 Start Your Smart Real Estate Journey Today!")
+    st.markdown('</div>', unsafe_allow_html=True)
 except:
     # Fallback if image doesn't exist
     st.info("🖼️ Add your banner image at 'datasets/banner image.jpg' for the complete experience!")
