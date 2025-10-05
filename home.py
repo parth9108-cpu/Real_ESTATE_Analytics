@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="🏙️",
     layout="wide"
 )
-
+#hide the default Streamlit menu and footer
 # Centered Title and Introduction with Animation Effect
 st.markdown(
     """
