@@ -1,7 +1,5 @@
 # Real Estate Analytics: AI-Powered Property Intelligence Platform
 
-![Real Estate Analytics Banner](datasets/banner%20image.jpg)
-
 In Gurgaon's rapidly evolving real estate landscape, making informed decisions requires more than intuition—it demands intelligence. Our platform combines advanced AI algorithms with comprehensive market data to provide you with unprecedented insights into property trends, investment opportunities, and market dynamics.
 
 ## 📊 Platform Statistics
@@ -12,8 +10,6 @@ In Gurgaon's rapidly evolving real estate landscape, making informed decisions r
 - **24/7** Real-time Updates
 
 ## 🎯 Why Choose Our Platform?
-
-![Platform Features](assets/photo1.png)
 
 Our AI-powered platform delivers:
 
@@ -35,7 +31,6 @@ Machine learning models trained on historical data provide accurate price foreca
 ## 🛠️ Core Functionalities
 
 ### 1. Ask Real Estate AI
-![AI Analysis](assets/photo3.png)
 
 Upload any file and get expert real estate analysis powered by advanced AI. Our intelligent system supports comprehensive analysis of:
 - Images (PNG, JPG, JPEG) - For property visuals and floor plans
@@ -48,7 +43,6 @@ Upload any file and get expert real estate analysis powered by advanced AI. Our 
 Simply drag and drop your files, and our AI will provide detailed insights, market analysis, and investment recommendations.
 
 ### 2. Price Predictor
-![Price Predictor](assets/photo2.png)
 
 Make data-driven property valuations based on comprehensive parameters:
 - Property Type (Flat, Independent House)
@@ -62,7 +56,6 @@ Make data-driven property valuations based on comprehensive parameters:
 - Additional Amenities (Servant Room, Store Room, Balconies)
 
 ### 3. Analysis App
-![Market Analysis](assets/photo5.png)
 
 Comprehensive market analysis tools with interactive visualizations:
 - Price trends by sector with dynamic charts
@@ -81,14 +74,11 @@ Features:
 - Voice-enabled question-answer system for market insights
 
 ### 4. Apartment Recommendations
-![Apartment Finder](assets/photo4.png)
 
 Smart apartment finder with advanced features:
 - Location-based intelligent search
 - Customizable radius selection (1-50 km)
 - Multi-factor similarity matching
-
-![Apartment Recommendations](assets/photo6.png)
 
 Advanced Recommendation Features:
 - Adjustable preference weights:
