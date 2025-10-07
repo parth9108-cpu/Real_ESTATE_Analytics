@@ -20,11 +20,6 @@ Our platform combines **advanced AI algorithms** with **comprehensive market dat
 ![Apartment Finder](appart.png)
 ![Home Page](./16695ab3-deb6-466b-8afb-46ac2d98c849.png)
 
-### 🧠 Ask Real Estate AI
-![Ask Real Estate AI](./75b4175b-ad33-4958-aee6-68bd07be8200.png)
-
-### 💰 Price Prediction
-![Price Predictor](./Home_Page.png)
 
 ---
 
