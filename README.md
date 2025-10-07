@@ -14,7 +14,7 @@ Our platform combines **advanced AI algorithms** with **comprehensive market dat
 ![Ask Real Estate AI](./75b4175b-ad33-4958-aee6-68bd07be8200.png)
 
 ### 💰 Price Prediction
-![Price Predictor](./1503a9ea-09ea-4f39-b613-e9268b5d0aa5.png)
+![Price Predictor](./Home_Page.png)
 
 ---
 
