@@ -1,30 +1,30 @@
 # 🏙️ Real Estate Analytics: AI-Powered Property Intelligence Platform
 
+![Platform Overview](Home_Page.png)
+
 In Gurgaon's rapidly evolving real estate landscape, making informed decisions requires more than intuition—it demands intelligence.  
 Our platform combines **advanced AI algorithms** with **comprehensive market data** to provide unprecedented insights into property trends, investment opportunities, and market dynamics.
 
----
+## 🛠️ Core Features
 
-## 📸 Interface Preview
+### 1. Ask Real Estate AI
+![AI Assistant](Ask_AI.png)
 
-### 📊 Platform Analytics
-![Platform Statistics](Analysis_App.png)
-- **10K+** Properties Analyzed
-- **95%** Prediction Accuracy
-- **50+** Sectors Covered
-- **24/7** Real-time Updates
-
-### � Ask Real Estate AI
-![Ask Real Estate AI](Ask_AI.png)
-Upload and analyze any type of real estate document with our advanced AI system.
-
-### 💰 Price Predictor
+### 2. Price Prediction
 ![Price Predictor](Price_Predictor.png)
-Make data-driven property valuations with our comprehensive prediction model.
 
-### 🏢 Apartment Finder
-![Apartment Search](appart.png)
-Find your perfect property match with our intelligent recommendation system.
+### 3. Market Analysis
+![Analysis Dashboard](Analysis_App.png)
+
+### 4. Apartment Recommendations
+![Apartment Finder](appart.png)
+![Home Page](./16695ab3-deb6-466b-8afb-46ac2d98c849.png)
+
+### 🧠 Ask Real Estate AI
+![Ask Real Estate AI](./75b4175b-ad33-4958-aee6-68bd07be8200.png)
+
+### 💰 Price Prediction
+![Price Predictor](./Home_Page.png)
 
 ---
 
