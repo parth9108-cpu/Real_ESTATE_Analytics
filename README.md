@@ -18,7 +18,6 @@ Our platform combines **advanced AI algorithms** with **comprehensive market dat
 
 ### 4. Apartment Recommendations
 ![Apartment Finder](appart.png)
-![Home Page](./16695ab3-deb6-466b-8afb-46ac2d98c849.png)
 
 
 ---
