@@ -85,7 +85,7 @@ st.markdown("""
     
     /* Supported files styling */
     .supported-files {
-        background: #edf2f7;
+        background: grey;
         border-radius: 10px;
         padding: 1rem;
         margin: 1rem 0;
